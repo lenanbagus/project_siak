@@ -13,7 +13,7 @@ body {
 }
 
 .form-structor {
-  background-color: #222;
+  background-color: #e1e8ee;
   border-radius: 15px;
   height: 550px;
   width: 350px;
@@ -30,8 +30,8 @@ body {
   left: 0;
   background-repeat: no-repeat;
   background-position: top;
-  background-size: 325px;
-  background-image: url('kementrian.png');
+  background-size: 275px;
+  background-image: url('logologin.png');
 }
 .form-structor .signup {
   position: absolute;
